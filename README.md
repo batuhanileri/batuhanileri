@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on with other content creators
 - 📫 How to reach me: bileriofficial@gmail.com
 
-Connect with me:
+<strong> Connect with me:
 
 <a href="https://www.instagram.com/batuhanileri/">
 <img src="https://www.vargonen.com/blog/wp-content/uploads/2020/09/instagramlogo.jpg" width="60" height="60"></a>
