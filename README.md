@@ -5,6 +5,5 @@
 - 👯 I’m looking to collaborate on with other content creators
 - 📫 How to reach me: bileriofficial@gmail.com
 
-Instagram [@batuhanileri](https://www.instagram.com/batuhanileri/)
-
-Linkedin [Batuhan İLERİ](https://www.linkedin.com/in/batuhan-ileri-722b2315b/)
+- Instagram [@batuhanileri](https://www.instagram.com/batuhanileri/)
+- Linkedin [Batuhan İLERİ](https://www.linkedin.com/in/batuhan-ileri-722b2315b/)
