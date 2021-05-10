@@ -7,8 +7,6 @@
 
 <strong> Connect with me: </strong>
 
-<a href="https://www.instagram.com/batuhanileri/">
-<img src="https://www.vargonen.com/blog/wp-content/uploads/2020/09/instagramlogo.jpg" width="60" height="60"></a>
 
 <a href="https://www.linkedin.com/in/batuhan-ileri-722b2315b/">
 <img src="https://img.compkkart.com/img/reviews/306/linkedin.jpg" width="70" height="55"></a>
