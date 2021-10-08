@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on with other content creators
 - 📫 How to reach me: bileriofficial@gmail.com
 
-<strong> Connect with me: </strong>
+
 
 
 
